@@ -12,7 +12,7 @@ Project for _Google Udacity Front End Nanodegree Scholarship_. Powered by `JS`, 
 4. run http server:
 `http-server`
 5. open site in your browser:
-http://localhost:8080`
+http://localhost:8080
 
 
 ### Specification
